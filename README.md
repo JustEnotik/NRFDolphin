@@ -3,9 +3,7 @@
 💩 P. S. Project have shit-code
 
 📚 Libraries:
-Adafruit_NeoPixel
-RF24
-U8g2
+Adafruit_NeoPixel, RF24, U8g2
 
 🧮 Scheme:
 
