@@ -1,6 +1,7 @@
-👀 Project based on nRF-BOX by CiferTech
+This device have Jammer (Illegaly), Scanner, Analyzer, BLE Spoofer and Sour Apple functions
 
-💩 P. S. Project have shit-code
+👀 Project based on nRF-BOX by CiferTech
+💩 P. S. Project have shit-code and code by ChatGPT
 
 📚 Libraries:
 Adafruit_NeoPixel, RF24, U8g2
