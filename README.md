@@ -6,13 +6,14 @@ This device have BLE/BLuetooth/Wi-Fi Jammer (Illegaly), Scanner, Analyzer, BLE S
 📚 Libraries:
 Adafruit_NeoPixel, RF24, U8g2
 
-🧮 Scheme:
+🧮 Connection:
 
-Screen:
-GND - GND
-VDD/VCC - 3V3
-SCK/SCL - D22
-SDA - D21
+| Screen  | ESP32 |
+| ------------- | ------------- |
+| GND  | GND  |
+| VDD/VCC  | 3V3  |
+| SCK/SCL  | D22  |
+| SDA  | D21  |
 
 Buttons:
 UP - D33
