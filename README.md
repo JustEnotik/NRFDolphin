@@ -42,10 +42,10 @@ Adafruit_NeoPixel, RF24, U8g2
 | GND (Pin1) | GND   | GND   | GND   |
 | VCC (Pin2) | 3V3   | 3V3   | 3V3   |
 | CE (Pin3)  | D5    | D16   | D15   |
-| CSN(Pin4)  | D17   | D4    | D2    |
+| CSN (Pin4)  | D17   | D4    | D2    |
 | SCK (Pin5) | D18   | D18   | D18   |
-| MOSI(Pin6) | D23   | D23   | D23   |
-| MISO(Pin7) | D19   | D19   | D19   |
+| MOSI (Pin6) | D23   | D23   | D23   |
+| MISO (Pin7) | D19   | D19   | D19   |
 
 
 
