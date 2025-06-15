@@ -1,4 +1,4 @@
-This device have Jammer (Illegaly), Scanner, Analyzer, BLE Spoofer and Sour Apple functions
+This device have BLE/BLuetooth/Wi-Fi Jammer (Illegaly), Scanner, Analyzer, BLE Spoofer and Sour Apple Spam functions
 
 👀 Project based on nRF-BOX by CiferTech
 💩 P. S. Project have shit-code and code by ChatGPT
