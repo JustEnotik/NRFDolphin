@@ -8,34 +8,50 @@ Adafruit_NeoPixel, RF24, U8g2
 
 🧮 Connection:
 
-| Screen | ESP32 |   | Screen | ESP32 |
-|--------|-------|...|--------|-------|
-| GND    | GND   |   | UP     | D26   |
-| VDD/VCC| 3V3   |   | SELECT | D32   |
-| SCK/SCL| D22   |   | DOWN   | D33   |
-| SDA    | D21   |   | LEFT   | D25   |
-|        |       |   | RIGHT  | D27   |
+
+| Screen  | ESP32 |
+| ------------- | ------------- |
+| GND  | GND  |
+| VDD/VCC  | 3V3  |
+| SCK/SCL  | D22  |
+| SDA  | D21  |
+
+| Screen  | ESP32 |
+| ------------- | ------------- |
+| UP  | D26  |
+| SELECT  | D32  |
+| DOWN  | D33  |
+| LEFT  | D25  |
+| RIGHT  | D27  |
+
+| NeoPixel  | ESP32 |
+| ------------- | ------------- |
+| UP  | D26  |
+| SELECT  | D32  |
+| DOWN  | D33  |
+
+| NeoPixel | ESP32 |
+| -------- | ----- |
+| 5V       | 3V3   |
+| DI       | D14   |
+| GND      | GND   |
 
 
+| NRF24        | ESP32 |
+| ------------ | ----- |
+| GND (Pin 1)  | GND   |
+| VCC (Pin 2)  | 3V3   |
+| CE (Pin 3)   |       |
+| - NRF 1      | D5    |
+| - NRF 2      | D16   |
+| - NRF 3      | D15   |
+| CSN (Pin 4)  |       |
+| - NRF 1      | D17   |
+| - NRF 2      | D4    |
+| - NRF 3      | D2    |
+| SCK (Pin 5)  | D18   |
+| MOSI (Pin 6) | D23   |
+| MISO (Pin 7) | D19   |
 
-NeoPixel:
-5V - 3V3
-DI - D14
-GND - GND
-
-NRF24:
-(GND) Pin 1 - GND
-(VCC) Pin 2 - 3V3
-(CE) Pin 3: 
-  NRF 1 - D5
-  NRF 2 - D16
-  NRF 3 - D15
-(CSN) Pin 4:
-  NRF 1 - D17
-  NRF 2 - D4
-  NRF 3 - D2
-(SCK) Pin 5 - D18
-(MOSI) Pin 6 - D23
-(MISO) Pin 7 - D19
 
 ![image](https://github.com/user-attachments/assets/4ef8b1a8-04a9-4a68-97be-123fc6c1847e)
