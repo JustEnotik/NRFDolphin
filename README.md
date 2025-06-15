@@ -15,12 +15,13 @@ Adafruit_NeoPixel, RF24, U8g2
 | SCK/SCL  | D22  |
 | SDA  | D21  |
 
-Buttons:
-UP - D33
-SELECT - D32
-DOWN - D33
-LEFT - D25
-RIGHT - D27
+| Screen  | ESP32 |
+| ------------- | ------------- |
+| UP  | D26  |
+| SELECT  | D32  |
+| DOWN  | D33  |
+| LEFT  | D25  |
+| RIGHT  | D27  |
 
 NeoPixel:
 5V - 3V3
