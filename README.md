@@ -37,21 +37,16 @@ Adafruit_NeoPixel, RF24, U8g2
 | GND      | GND   |
 
 
-| NRF24        | ESP32 |
-| ------------ | ----- |
-| GND (Pin 1)  | GND   |
-| VCC (Pin 2)  | 3V3   |
-| CE (Pin 3)   |       |
-| - NRF 1      | D5    |
-| - NRF 2      | D16   |
-| - NRF 3      | D15   |
-| CSN (Pin 4)  |       |
-| - NRF 1      | D17   |
-| - NRF 2      | D4    |
-| - NRF 3      | D2    |
-| SCK (Pin 5)  | D18   |
-| MOSI (Pin 6) | D23   |
-| MISO (Pin 7) | D19   |
+| Pin        | NRF 1 | NRF 2 | NRF 3 |
+| ---------- | ----- | ----- | ----- |
+| GND (Pin1) | GND   | GND   | GND   |
+| VCC (Pin2) | 3V3   | 3V3   | 3V3   |
+| CE (Pin3)  | D5    | D16   | D15   |
+| CSN(Pin4)  | D17   | D4    | D2    |
+| SCK (Pin5) | D18   | D18   | D18   |
+| MOSI(Pin6) | D23   | D23   | D23   |
+| MISO(Pin7) | D19   | D19   | D19   |
+
 
 
 ![image](https://github.com/user-attachments/assets/4ef8b1a8-04a9-4a68-97be-123fc6c1847e)
