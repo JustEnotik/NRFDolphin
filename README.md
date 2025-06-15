@@ -30,4 +30,6 @@ Adafruit_NeoPixel, RF24, U8g2
 | **NeoPixel**       | 5V           | 3V3                   |           |           |           |
 |                    | DI           | D14                   |           |           |           |
 |                    | GND          | GND                   |           |           |           |
-|![image](https://github.com/user-attachments/assets/4ef8b1a8-04a9-4a68-97be-123fc6c1847e)|
+
+
+![image](https://github.com/user-attachments/assets/4ef8b1a8-04a9-4a68-97be-123fc6c1847e)
