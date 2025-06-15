@@ -8,20 +8,13 @@ Adafruit_NeoPixel, RF24, U8g2
 
 🧮 Connection:
 
-| Screen  | ESP32 |
-| ------------- | ------------- |
-| GND  | GND  |
-| VDD/VCC  | 3V3  |
-| SCK/SCL  | D22  |
-| SDA  | D21  |
-
-| Screen  | ESP32 |
-| ------------- | ------------- |
-| UP  | D26  |
-| SELECT  | D32  |
-| DOWN  | D33  |
-| LEFT  | D25  |
-| RIGHT  | D27  |
+| Screen | ESP32 |   | Screen | ESP32 |
+|--------|-------|---|--------|-------|
+| GND    | GND   |   | UP     | D26   |
+| VDD/VCC| 3V3   |   | SELECT | D32   |
+| SCK/SCL| D22   |   | DOWN   | D33   |
+| SDA    | D21   |   | LEFT   | D25   |
+|        |       |   | RIGHT  | D27   |
 
 NeoPixel:
 5V - 3V3
