@@ -9,6 +9,7 @@ Adafruit_NeoPixel, RF24, U8g2
 🧮 Connection:
 
 
+|![image](https://github.com/user-attachments/assets/4ef8b1a8-04a9-4a68-97be-123fc6c1847e)|
 | **Component**      | **Pin**      | **ESP32 Pin / Value** | **NRF 1** | **NRF 2** | **NRF 3** |
 | ------------------ | ------------ | --------------------- | --------- | --------- | --------- |
 | **NRF24**          | GND (Pin 1)  | GND                   | GND       | GND       | GND       |
@@ -31,5 +32,3 @@ Adafruit_NeoPixel, RF24, U8g2
 |                    | DI           | D14                   |           |           |           |
 |                    | GND          | GND                   |           |           |           |
 
-
-![image](https://github.com/user-attachments/assets/4ef8b1a8-04a9-4a68-97be-123fc6c1847e)
