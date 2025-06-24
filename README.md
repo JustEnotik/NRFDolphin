@@ -8,8 +8,9 @@ Adafruit_NeoPixel, RF24, U8g2
 
 🧮 Connection:
 
+⚠ In the nRF-Box PCB v3, the SELECT and DOWN buttons are swapped.
 
-![Аннотация 2025-06-16 153641](https://github.com/user-attachments/assets/447fec18-f1c1-4475-9af7-35b716f83b00)
+![photo_2025-06-24_14-04-41](https://github.com/user-attachments/assets/9a66c325-6429-49e9-9632-44f2e17ffe3d)
 | **Component**      | **Pin**      | **ESP32 Pin / Value** | **NRF 1** | **NRF 2** | **NRF 3** |
 | ------------------ | ------------ | --------------------- | --------- | --------- | --------- |
 | **NRF24**          | GND (Pin 1)  | GND                   | GND       | GND       | GND       |
